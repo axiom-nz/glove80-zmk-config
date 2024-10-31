@@ -3,7 +3,7 @@
   "firmware_api_version": "1",
   "locale": "en-US",
   "uuid": "",
-  "parent_uuid": "b2226ebe-88c5-4989-b2e0-4e842e694dc8",
+  "parent_uuid": "076a67fb-c417-4d69-b85d-931487c63abf",
   "date": 1730335585,
   "creator": "axiom",
   "title": "[WIP] axiom MacOS - HRM + ColemakDH",
@@ -627,7 +627,7 @@
             "params": []
           },
           {
-            "value": "SPACE",
+            "value": "RET",
             "params": []
           }
         ]
